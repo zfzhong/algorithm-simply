@@ -2,4 +2,4 @@
 
 Demystifying algorithm complexity.
 
-## Recurrence make easy
+## Recurrence made easy
